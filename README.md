@@ -14,6 +14,9 @@ A simple weather application that allows users to check current weather conditio
 - JavaScript
 - Weather API
 
+- ## 🔗 API Used
+OpenWeather API
+
 ## 📌 Project Goal
 This project was built to practice working with APIs, asynchronous JavaScript (fetch), and handling real-time data.
 
